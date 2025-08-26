@@ -1,8 +1,5 @@
 # Foundry Fund Me
 
-This is a section of the Cyfrin Solidity Course.
-
-*[⭐️ Updraft | Foundry Fund Me](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/fund-me-project-setup)*
 
 # About
 
